@@ -1,7 +1,8 @@
 # Hello :neckbeard: my name is Anton (TMCyber)
 
 ##### Full Stack Developer && CyberSecurity CEH Master
-![gif 2 15 sec](https://user-images.githubusercontent.com/97669969/174893192-1f834a29-b50b-445d-8282-a3bbaafbdc84.gif)
+![my gif](https://user-images.githubusercontent.com/97669969/174899548-97d79017-e5ab-4f28-a332-952513951f83.gif)
+
 
 
 
