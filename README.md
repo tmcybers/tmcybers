@@ -1,7 +1,8 @@
 # Hello :neckbeard: my name is Anton (TMCyber) Merisan
 
 
-![my gif](https://user-images.githubusercontent.com/97669969/174899548-97d79017-e5ab-4f28-a332-952513951f83.gif)
+![Diseño sin título (1)](https://user-images.githubusercontent.com/97669969/177411841-d9129654-7f91-4115-9b8f-402841975218.gif)
+
 
 
 
