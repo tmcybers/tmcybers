@@ -1,4 +1,4 @@
-# Hello :neckbeard: my name is Anton (TMCyber) Merisan
+
 
 
 ![Diseño sin título (1)](https://user-images.githubusercontent.com/97669969/177411841-d9129654-7f91-4115-9b8f-402841975218.gif)
