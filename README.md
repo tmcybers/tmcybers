@@ -1,10 +1,4 @@
-
-
-
-![Diseño sin título (1)](https://user-images.githubusercontent.com/97669969/177411841-d9129654-7f91-4115-9b8f-402841975218.gif)
-
-
-
+![Banner para LinkedIn diseño minimalista de informático blanco](https://user-images.githubusercontent.com/97669969/181855324-06b9394d-d245-4e72-8992-4aa551e39421.jpg)
 
 
 
