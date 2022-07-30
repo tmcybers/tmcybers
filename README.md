@@ -1,6 +1,5 @@
-![bannner github](https://user-images.githubusercontent.com/97669969/181937819-6a268ba6-75b4-4195-a895-511129b5304c.png)
 
-
+![banner 2 giuthub](https://user-images.githubusercontent.com/97669969/181941465-32aae5fc-2683-4f7f-9bfd-4539841da4ae.png)
 
 
 
