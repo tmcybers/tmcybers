@@ -1,5 +1,4 @@
-![Banner para LinkedIn diseño minimalista de informático blanco](https://user-images.githubusercontent.com/97669969/181855324-06b9394d-d245-4e72-8992-4aa551e39421.jpg)
-
+![bannner github](https://user-images.githubusercontent.com/97669969/181937819-6a268ba6-75b4-4195-a895-511129b5304c.png)
 
 
 
