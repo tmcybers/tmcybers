@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/w/tmcybers/Upgrade-Hub?color=magenta&logo=github&logoColor=red&style=flat-square">
+
