@@ -1,7 +1,8 @@
+![banner 4 linkedin](https://user-images.githubusercontent.com/97669969/183599350-bf89bf84-c8d4-4b6a-af78-ca44cc6c6922.jpg)
 
 
 
-https://user-images.githubusercontent.com/97669969/183599204-22c8dc11-fd90-4d1a-8069-3262cea0f2eb.mp4
+
 
 
 
