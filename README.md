@@ -48,9 +48,9 @@ __Check out my GitHub repository:__
 
 [![Backdoor en python](https://github-readme-stats.vercel.app/api/pin/?username=tmcybers&repo=BACKDOOR-LABORATORIO-&show_owner=true)](https://github.com/tmcybers/BACKDOOR-LABORATORIO-)
 
+[![Keylogger en python](https://github-readme-stats.vercel.app/api/pin/?username=tmcybers&repo=KEYLOGGER-LABORATORIO-&show_owner=true)](https://github.com/tmcybers/KEYLOGGER-LABORATORIO-)
 
-
-
+[![Ethical hacker Work ENV](https://github-readme-stats.vercel.app/api/pin/?username=tmcybers&repo=ETHICAL-HACKER-WORK-ENVIRONMENT-V2-2022&show_owner=true)](https://github.com/tmcybers/ETHICAL-HACKER-WORK-ENVIRONMENT-V2-2022)
 
 
 
