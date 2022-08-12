@@ -1,4 +1,37 @@
-![banner 4 linkedin](https://user-images.githubusercontent.com/97669969/183599350-bf89bf84-c8d4-4b6a-af78-ca44cc6c6922.jpg)
+![Lakshmanan Meiyappan Banner Image](./banner.png)
+<!-- <h2 align='center'>Lakshmanan Meiyappan @ Laxmena</h2>
+<p align='center'><b>Graduate Student at University of Illinois at Chicago</b></p> -->
+
+
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=/tmcybers/Freelancer-Modern-Website-2022-Project-)
+
+
+![Overall Stats](https://github-readme-stats.vercel.app/api?username=tmcybers&count_private=true&show_icons=true&hide=contribs)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tmcybers&layout=compact)
+
+<h2>💻 I'm Currently workng on</h2>
+
+- Front-End Development
+- Software Engineering
+
+
+## About TMCyber  :zap: :
+
+I'm a Writter|Autor of tmcybers.com || Multiskill Dev--> Front|Back Developer || Java Enthusiast | Self-Taught Fanatic , I love to read, enjoy music and explore nature outdoors. If you are around Madrid, drop an email and let's catch-up over Coffee!
+
+* Check out my Blog: https://www.tmcybers.com
+- Know more about me: [About TMCyber](https://tmcybers.com/)
+- Write to me: [ConnectWith@tmcybers.com](mailto:tmcyberagent@gmail.com)
+
+
+
+  # :mailbox_with_mail: How to reach me:
+  
+<a href="mailto:tmcyberagent@gmail.com">![tmcyberagent@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+
+<a href="<https://www.linkedin.com/in/antonmerisan>">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
 
 
@@ -9,19 +42,10 @@
 
 
 
-<!--
-**tmcybers/tmcybers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
 
 
