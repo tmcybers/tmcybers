@@ -1,6 +1,5 @@
-![Lakshmanan Meiyappan Banner Image](./banner.png)
-<!-- <h2 align='center'>Lakshmanan Meiyappan @ Laxmena</h2>
-<p align='center'><b>Graduate Student at University of Illinois at Chicago</b></p> -->
+![github banner ](https://user-images.githubusercontent.com/97669969/184412404-95e2ad4e-9971-4df0-8833-6d22eae249a9.jpg)
+
 
 
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=/tmcybers/Freelancer-Modern-Website-2022-Project-)
