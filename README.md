@@ -2,11 +2,13 @@
 
 
 
+<h2>Around the World<h2>
+  
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=/tmcybers/Freelancer-Modern-Website-2022-Project-)
 
 ![](https://komarev.com/ghpvc/?username=tmcybers)
 
-**Languages and Tools:**  
+<h2>Languages and Tools<h2> 
 
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></code>
@@ -20,24 +22,30 @@
 <code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/visual-studio-code.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/vim.png"></code>  
 
-
-
+<h2>🏆 Github Profile Trophy</h2>
+<img width=800 src="https://github-profile-trophy.vercel.app/?username=tmcybers&column=9&theme=gruvbox&no-frame=true"/>
+ 
+  <h2>This Month<h2>
+   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tmcybers&layout=compact)
 
+    
 ![Overall Stats](https://github-readme-stats.vercel.app/api?username=tmcybers&count_private=true&show_icons=true&hide=contribs)
 
+<h2>Week<h2>
+  
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tmcyber)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
 <h2>💻 I'm Currently workng on</h2>
 
-- Front|Back Development
+- Front\Back Development
 - Pentesting Tools
 
 
 
-__Check out my GitHub repository:__
+__Check Out my Latest Projects:__
 
 
 [![Freelancer Website Blog](https://github-readme-stats.vercel.app/api/pin/?username=tmcybers&repo=Freelancer-Modern-Website-2022-Project-&show_owner=true)](https://github.com/tmcybers/Freelancer-Modern-Website-2022-Project-)
