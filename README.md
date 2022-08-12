@@ -1,8 +1,15 @@
 ![github banner ](https://user-images.githubusercontent.com/97669969/184412404-95e2ad4e-9971-4df0-8833-6d22eae249a9.jpg)
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Full-stack+web+and+app+developer.++++++++++)](https://git.io/typing-svg)
+
+<p align="center">
+  <img width="92" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/mkdir.png" />
+</p>  
+<h2 align="center">Hi there 👋, I'm TMCyber!</h2>
 
 
-<h2>Around the World<h2>
+<a href="https://tmcybers.com/" target="blank">Blog: <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="Medium" height="30" width="40" /></a> <a href="https://twitter.com/Tmerisan" target="blank">Twitter: <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Medium" height="30" width="40" /></a>
+
   
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=/tmcybers/Freelancer-Modern-Website-2022-Project-)
 
@@ -25,14 +32,14 @@
 <h2>🏆 Github Profile Trophy</h2>
 <img width=800 src="https://github-profile-trophy.vercel.app/?username=tmcybers&column=9&theme=gruvbox&no-frame=true"/>
  
-  <h2>This Month<h2>
+  
    
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tmcybers&layout=compact)
 
     
-![Overall Stats](https://github-readme-stats.vercel.app/api?username=tmcybers&count_private=true&show_icons=true&hide=contribs)
+![Shin's GitHub stats](https://github-readme-stats.vercel.app/api?username=tmcybers&show_icons=true&theme=tokyonight)
 
-<h2>Week<h2>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tmcybers&theme=neon-palenight&hide_border=true)
   
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tmcyber)](https://github.com/anuraghazra/github-readme-stats)
 
