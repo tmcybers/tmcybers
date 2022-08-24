@@ -1,4 +1,5 @@
-![logo 2 github update2](https://user-images.githubusercontent.com/97669969/186533151-499fa7bf-c753-43ce-8932-f23bd40a8b09.png)
+![WritterAutor of tmcybers com  Multiskill Dev -- FrontBack Developer  Java Enthusiast  Self-Taught Fanatic ](https://user-images.githubusercontent.com/97669969/186533726-97283891-bf8e-4799-bd51-5a36e787f7cf.jpg)
+
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Full-stack+web+and+app+developer.++++++++++)](https://git.io/typing-svg)
