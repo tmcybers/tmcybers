@@ -1,4 +1,5 @@
-![github banner ](https://user-images.githubusercontent.com/97669969/184412404-95e2ad4e-9971-4df0-8833-6d22eae249a9.jpg)
+![logo 2 github update2](https://user-images.githubusercontent.com/97669969/186533151-499fa7bf-c753-43ce-8932-f23bd40a8b09.png)
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Full-stack+web+and+app+developer.++++++++++)](https://git.io/typing-svg)
 
