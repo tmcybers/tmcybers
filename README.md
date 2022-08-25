@@ -1,8 +1,14 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+new&color=%23808080&size=40&width=800&duration=6969&lines=Welcome+to+my+profile!)](https://git.io/typing-svg)
 # <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" height="30px" width="30px"> I'm TMCyber
 
-
-[![Website](https://img.shields.io/badge/-BLOG-green?style=for-the-badge&logo=appveyor)](https://www.tmcybers.com/)
+[![Website](https://img.shields.io/badge/-BLOG-yellowgreen?style=for-the-badge&logo=WORDPRESS)](https://www.tmcybers.com/)
+[![Website](https://img.shields.io/badge/-MEDIUM-orange?style=for-the-badge&logo=MEDIUM)](https://medium.com/@tmcybers)
+[![Website](https://img.shields.io/badge/-TWITTER-yellow?style=for-the-badge&logo=TWITTER)](https://twitter.com/TMerisan)
+[![Website](https://img.shields.io/badge/-KEYBASE-red?style=for-the-badge&logo=KEYBASE)](https://keybase.io/tmcybers)
+[![Website](https://img.shields.io/badge/-WAKATIME-lightgrey?style=for-the-badge&logo=WAKATIME)](https://wakatime.com/@tmcyber)
+[![Website](https://img.shields.io/badge/-KO--FI-blue?style=for-the-badge&logo=KO-FI)](https://ko-fi.com/tmcyber)
+[![Website](https://img.shields.io/badge/-BUY%20MY%20SERVICES-orange?style=for-the-badge&logo=COFFEE)](https://github.com/sponsors/tmcybers)
+[![Website](https://img.shields.io/badge/-GITHUB%20BLOG-red?style=for-the-badge&logo=GITHUB)](https://tmcybers.github.io/)
 
 
 <p align="center">
