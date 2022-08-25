@@ -20,19 +20,62 @@
 
 <h2>Languages and Tools<h2> 
 
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/></code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></code>
-<code><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="40" height="40"/></code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></code>
-<code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/python.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/javascript.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/php.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/visual-studio-code.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/vim.png"></code>  
+<div>
+  <img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">&nbsp;&nbsp;&nbsp;
+  <img width=50px src="https://cdn.freebiesupply.com/logos/large/2x/vim-logo-png-transparent.png">&nbsp;&nbsp;&nbsp;
+  <img width=50px src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/512px-PyCharm_Icon.svg.png">&nbsp;&nbsp;&nbsp;
+  <img width=50px src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-png-transparent.png">&nbsp;&nbsp;&nbsp;
+  <img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">&nbsp;&nbsp;&nbsp;
+  <img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">&nbsp;&nbsp;&nbsp;
+  <img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png">&nbsp;&nbsp;&nbsp;
+  <img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">&nbsp;&nbsp;&nbsp;
+  <img width=50px src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png">&nbsp;&nbsp;&nbsp;
+  <img width=50px src="https://github.com/mongodb-js/leaf/raw/master/dist/mongodb-leaf_512x512.png">&nbsp;&nbsp;&nbsp;
+  <img width=50px src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png">&nbsp;&nbsp;&nbsp;
+  <img width=50px src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png">&nbsp;&nbsp;&nbsp;
+  <img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">&nbsp;&nbsp;&nbsp;
+  <img width=50px src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg">&nbsp;&nbsp;&nbsp;
+  <img width=50px src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png">&nbsp;&nbsp;&nbsp;
+  <img width=50px src="https://cdn.icon-icons.com/icons2/1381/PNG/512/rstudio_94807.png">&nbsp;&nbsp;&nbsp;
+  <img width=50px src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/2048px-Windows_logo_-_2012.svg.png">&nbsp;&nbsp;&nbsp;
+  <img width=50px src="https://cdn-icons-png.flaticon.com/512/518/518713.png">&nbsp;&nbsp;&nbsp;
+</div>
 
-<h2>🏆 Github Profile Trophy</h2>
+</br>
+
+
+
+## My Workspace:
+
+[<img height=40 src="https://img.shields.io/badge/Linux-Ubuntu%20Jammy%20Jellyfish-red?style=for-the-badge&logo=appveyor">]()</br>
+
+[<img height=40 src="https://img.shields.io/badge/ArchCraft-OPENBOX%7C%7CBSPWM-red?style=for-the-badge&logo=appveyor">](https://archcraft.io/)</br>
+
+[<img height=40 src="https://img.shields.io/badge/Acer-NITRO%205%20%5BNitroSense%5D-red?style=for-the-badge&logo=appveyor">]()</br>
+
+[<img height=40 src="https://img.shields.io/badge/Intel%C2%AE%20Core%E2%84%A2-i7%208Gen-red?style=for-the-badge&logo=appveyor">]()</br>
+
+[<img height=40 src="https://img.shields.io/badge/Kingston-DRAM%2024Gb%20%202667%20Mhz-red?style=for-the-badge&logo=appveyor">]()</br>
+
+[<img height=40 src="https://img.shields.io/badge/GeForce%20GTX%201050-4%20GB-red?style=for-the-badge&logo=appveyor">]()</br>
+
+[<img height=40 src="https://img.shields.io/badge/Kingston-SSD%20SATA%20A400%201.92TB%20500MB%2Fs-red?style=for-the-badge&logo=appveyor">]()</br>
+
+[<img height=40 src="https://img.shields.io/badge/Lenovo-ThinkPad%20i5%20Slim--Edition-red?style=for-the-badge&logo=appveyor">]()</br>
+
+[<img height=40 src="https://img.shields.io/badge/Kingston-SSD%20SATA%20A400%20256GB%20350MB%2Fs-red?style=for-the-badge&logo=appveyor">]()</br>
+
+[<img height=40 src="https://img.shields.io/badge/Kingston-DRAM%208Gb%20%202667%20Mhz-red?style=for-the-badge&logo=appveyor">]()</br>
+
+[<img height=40 src="https://img.shields.io/badge/Keychron%20K2-Mechanical%20Keyboard%20Gateron-red?style=for-the-badge&logo=appveyor">]()</br>
+
+
+---
+
+   
+
+<h1>🏆 Github Profile Trophy</h1>
+
 <img width=800 src="https://github-profile-trophy.vercel.app/?username=tmcybers&column=9&theme=gruvbox&no-frame=true"/>
  
   
@@ -58,19 +101,16 @@
 __Check Out my Latest Projects:__
 
 
-[![Freelancer Website Blog](https://github-readme-stats.vercel.app/api/pin/?username=tmcybers&repo=Freelancer-Modern-Website-2022-Project-&show_owner=true)](https://github.com/tmcybers/Freelancer-Modern-Website-2022-Project-)
+## Top repositories
 
-[![Academy Modern Web](https://github-readme-stats.vercel.app/api/pin/?username=tmcybers&repo=Academy-Modern-Webpage-HTML-CSS-2022-Project-&show_owner=true)](https://github.com/tmcybers/Academy-Modern-Webpage-HTML-CSS-2022-Project-)
-
-[![FrontEnd Online Store Web](https://github-readme-stats.vercel.app/api/pin/?username=tmcybers&repo=FrontEnd-Store-Online-Shop-Modern-Webpage-2022-Project&show_owner=true)](https://github.com/tmcybers/FrontEnd-Store-Online-Shop-Modern-Webpage-2022-Project)
-
-[![Backdoor en python](https://github-readme-stats.vercel.app/api/pin/?username=tmcybers&repo=BACKDOOR-LABORATORIO-&show_owner=true)](https://github.com/tmcybers/BACKDOOR-LABORATORIO-)
-
-[![Keylogger en python](https://github-readme-stats.vercel.app/api/pin/?username=tmcybers&repo=KEYLOGGER-LABORATORIO-&show_owner=true)](https://github.com/tmcybers/KEYLOGGER-LABORATORIO-)
-
-[![Ethical hacker Work ENV](https://github-readme-stats.vercel.app/api/pin/?username=tmcybers&repo=ETHICAL-HACKER-WORK-ENVIRONMENT-V2-2022&show_owner=true)](https://github.com/tmcybers/ETHICAL-HACKER-WORK-ENVIRONMENT-V2-2022)
-
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tmcybers&repo=Blog-del-Vino-Brand-Modern-Website-2022-Project&theme=github_dark)](https://github.com/kevinfengcs88/wavedash)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tmcybers&repo=FrontEnd-Store-Online-Shop-Modern-Webpage-2022-Project&theme=github_dark)](https://github.com/kevinfengcs88/vim-guide)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tmcybers&repo=Freelancer-Modern-Website-2022-Project-&theme=github_dark)](https://github.com/kevinfengcs88/kahoot-monkey)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tmcybers&repo=Academy-Modern-Webpage-2022-Project-&theme=github_dark)](https://github.com/kevinfengcs88/kevinfeng.ga)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tmcybers&repo=BACKDOOR-LABORATORIO-&theme=github_dark)](https://github.com/kevinfengcs88/monkaly)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tmcybers&repo=KEYLOGGER-LABORATORIO-&theme=github_dark)](https://github.com/kevinfengcs88/osrs-projects)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tmcybers&repo=ETHICAL-HACKER-WORK-ENVIRONMENT-V2-2022&theme=github_dark)](https://github.com/kevinfengcs88/piercetheheavens.ga)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tmcybers&repo=REVERSE_SHELL-CON-NCAT&theme=github_dark)](https://github.com/kevinfengcs88/morse-learner)
 
 
 
