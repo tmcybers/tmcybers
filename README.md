@@ -1,19 +1,19 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+new&color=%23808080&size=40&width=800&duration=6969&lines=Hi+There+im+TMCyber!)](https://git.io/typing-svg)
-# <!--<img src="" height="30px" width="30px">--> 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+new&color=%23808080&size=40&width=800&duration=6969&lines=Welcome+to+my+profile!)](https://git.io/typing-svg)
+# <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" height="30px" width="30px"> I'm TMCyber
 
 
+[![Website](https://img.shields.io/badge/-BLOG-green?style=for-the-badge&logo=appveyor)](https://www.tmcybers.com/)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Full-Stack+Web+and+App+Developer+JR++++++++++)](https://git.io/typing-svg)
 
 <p align="center">
   <img width="92" src="<a href="https://www.freepnglogos.com/pics/linux" title=""><img src="https://www.freepnglogos.com/uploads/linux-png/compiling-the-linux-kernel-ubuntu-ultimatepeterm-31.png" width="200" alt="compiling the linux kernel ubuntu ultimatepeterm"/></a>
 </p>  
 <h2 align="center"> </h2>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=FULL-STACK+WEB+AND+APP+DEVELOPER+JR++++++++++)](https://git.io/typing-svg)
 
 
 
-<a href="https://tmcybers.com/" target="blank">Blog: <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="Medium" height="30" width="40" /></a> <a href="https://twitter.com/Tmerisan" target="blank">Twitter: <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Medium" height="30" width="40" /></a>
 
   
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=/tmcybers/Freelancer-Modern-Website-2022-Project-)
