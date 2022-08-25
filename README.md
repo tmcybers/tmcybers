@@ -1,14 +1,20 @@
-![logo3](https://user-images.githubusercontent.com/97669969/186534593-51a3bf42-5130-41fb-88bd-6a70ac6bf192.png)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+new&color=%23808080&size=40&width=800&duration=6969&lines=Welcome+to+my+profile!)](https://git.io/typing-svg)
+# <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" height="30px" width="30px"> 
 
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Full-stack+web+and+app+developer.++++++++++)](https://git.io/typing-svg)
+
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Full-Stack+Web+and+App+Developer+JR++++++++++)](https://git.io/typing-svg)
 
 <p align="center">
-  <img width="92" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/mkdir.png" />
+  <img width="92" src="<a href="https://www.freepnglogos.com/pics/linux" title=""><img src="https://www.freepnglogos.com/uploads/linux-png/compiling-the-linux-kernel-ubuntu-ultimatepeterm-31.png" width="200" alt="compiling the linux kernel ubuntu ultimatepeterm"/></a>"
 </p>  
 <h2 align="center">Hi there 👋, I'm TMCyber!</h2>
+
+
 
 
 <a href="https://tmcybers.com/" target="blank">Blog: <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="Medium" height="30" width="40" /></a> <a href="https://twitter.com/Tmerisan" target="blank">Twitter: <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Medium" height="30" width="40" /></a>
