@@ -42,7 +42,7 @@
   <img width=50px src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png">&nbsp;&nbsp;&nbsp;
   <img width=50px src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png">&nbsp;&nbsp;&nbsp;
   <img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">&nbsp;&nbsp;&nbsp;
-  <img width=50px src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg">&nbsp;&nbsp;&nbsp;
+
   <img width=50px src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png">&nbsp;&nbsp;&nbsp;
   <img width=50px src="https://cdn.icon-icons.com/icons2/1381/PNG/512/rstudio_94807.png">&nbsp;&nbsp;&nbsp;
   <img width=50px src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/2048px-Windows_logo_-_2012.svg.png">&nbsp;&nbsp;&nbsp;
@@ -53,11 +53,9 @@
 
 
 
-## My Workspace:
+## My Workspaces:
 
 [<img height=40 src="https://img.shields.io/badge/Linux-Ubuntu%20Jammy%20Jellyfish-red?style=for-the-badge&logo=appveyor">]()</br>
-
-[<img height=40 src="https://img.shields.io/badge/ArchCraft-OPENBOX%7C%7CBSPWM-red?style=for-the-badge&logo=appveyor">](https://archcraft.io/)</br>
 
 [<img height=40 src="https://img.shields.io/badge/Acer-NITRO%205%20%5BNitroSense%5D-red?style=for-the-badge&logo=appveyor">]()</br>
 
@@ -69,14 +67,17 @@
 
 [<img height=40 src="https://img.shields.io/badge/Kingston-SSD%20SATA%20A400%201.92TB%20500MB%2Fs-red?style=for-the-badge&logo=appveyor">]()</br>
 
+[<img height=40 src="https://img.shields.io/badge/Keychron%20K2-Mechanical%20Keyboard%20Gateron-red?style=for-the-badge&logo=appveyor">]()</br>
+
+## Workspace Arch:
+
+[<img height=40 src="https://img.shields.io/badge/ArchCraft-OPENBOX%7C%7CBSPWM-red?style=for-the-badge&logo=appveyor">](https://archcraft.io/)</br>
+
 [<img height=40 src="https://img.shields.io/badge/Lenovo-ThinkPad%20i5%20Slim--Edition-red?style=for-the-badge&logo=appveyor">]()</br>
 
 [<img height=40 src="https://img.shields.io/badge/Kingston-SSD%20SATA%20A400%20256GB%20350MB%2Fs-red?style=for-the-badge&logo=appveyor">]()</br>
 
 [<img height=40 src="https://img.shields.io/badge/Kingston-DRAM%208Gb%20%202667%20Mhz-red?style=for-the-badge&logo=appveyor">]()</br>
-
-[<img height=40 src="https://img.shields.io/badge/Keychron%20K2-Mechanical%20Keyboard%20Gateron-red?style=for-the-badge&logo=appveyor">]()</br>
-
 
 ---
 
