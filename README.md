@@ -97,8 +97,10 @@
 ![Shin's GitHub stats](https://github-readme-stats.vercel.app/api?username=tmcybers&show_icons=true&theme=tokyonight)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tmcybers&theme=neon-palenight&hide_border=true)
+
+## See me Live:
   
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tmcyber)](https://github.com/anuraghazra/github-readme-stats)
+[![tmcybers's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tmcyber)](https://wakatime.com/@tmcyber)
 
 
 
@@ -107,7 +109,7 @@
 - Front\Back Development
 - Pentesting Tools
 
-### Machine Learning Python + Django Rest Framework + React
+## Machine Learning Python + Django Rest Framework + React
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tmcybers&repo=Machine-Learning-Django-Rest-Framework-React&theme=github_dark)](https://github.com/tmcybers/Machine-Learning-Django-Rest-Framework-React)
 
