@@ -1,7 +1,7 @@
 
 # <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" height="30px" width="30px"> Hey, I'm TMCyber
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+new&color=%23808080&size=40&width=800&duration=6969&lines=Welcome+to+my+Profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+new&color=%23808080&size=30&width=1000&duration=6969&lines=Welcome+to+my+Profile!)](https://git.io/typing-svg)
 
 [![Website](https://img.shields.io/badge/-BLOG-yellowgreen?style=for-the-badge&logo=WORDPRESS)](https://www.tmcybers.com/)
 [![Website](https://img.shields.io/badge/-MEDIUM-orange?style=for-the-badge&logo=MEDIUM)](https://medium.com/@tmcybers)
