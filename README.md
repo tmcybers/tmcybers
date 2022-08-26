@@ -107,6 +107,9 @@
 - Front\Back Development
 - Pentesting Tools
 
+### Machine Learning Python + Django Rest Framework + React
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tmcybers&repo=Machine-Learning-Django-Rest-Framework-React&theme=github_dark)](https://github.com/tmcybers/Machine-Learning-Django-Rest-Framework-React)
 
 
 __Check Out my Latest Projects:__
@@ -114,14 +117,15 @@ __Check Out my Latest Projects:__
 
 ## Top repositories
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tmcybers&repo=Blog-del-Vino-Brand-Modern-Website-2022-Project&theme=github_dark)](https://github.com/kevinfengcs88/wavedash)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tmcybers&repo=FrontEnd-Store-Online-Shop-Modern-Webpage-2022-Project&theme=github_dark)](https://github.com/kevinfengcs88/vim-guide)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tmcybers&repo=Freelancer-Modern-Website-2022-Project-&theme=github_dark)](https://github.com/kevinfengcs88/kahoot-monkey)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tmcybers&repo=Academy-Modern-Webpage-2022-Project-&theme=github_dark)](https://github.com/kevinfengcs88/kevinfeng.ga)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tmcybers&repo=BACKDOOR-LABORATORIO-&theme=github_dark)](https://github.com/kevinfengcs88/monkaly)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tmcybers&repo=KEYLOGGER-LABORATORIO-&theme=github_dark)](https://github.com/kevinfengcs88/osrs-projects)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tmcybers&repo=ETHICAL-HACKER-WORK-ENVIRONMENT-V2-2022&theme=github_dark)](https://github.com/kevinfengcs88/piercetheheavens.ga)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tmcybers&repo=REVERSE_SHELL-CON-NCAT&theme=github_dark)](https://github.com/kevinfengcs88/morse-learner)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tmcybers&repo=Blog-del-Vino-Brand-Modern-Website-2022-Project&theme=github_dark)](https://github.com/tmcybers/Blog-del-Vino-Brand-Modern-Website-2022-Project)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tmcybers&repo=FrontEnd-Store-Online-Shop-Modern-Webpage-2022-Project&theme=github_dark)](https://github.com/tmcybers/FrontEnd-Store-Online-Shop-Modern-Webpage-2022-Project)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tmcybers&repo=Freelancer-Modern-Website-2022-Project-&theme=github_dark)](https://github.com/tmcybers/Freelancer-Modern-Website-2022-Project-)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tmcybers&repo=Academy-Modern-Webpage-2022-Project-&theme=github_dark)](https://github.com/tmcybers/Academy-Modern-Webpage-2022-Project-)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tmcybers&repo=Backdoor-with-Python-Lab-&theme=github_dark)](https://github.com/tmcybers/Backdoor-with-Python-Lab-)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tmcybers&repo=Keylogger-with-Python-Lab-&theme=github_dark)](https://github.com/tmcybers/Keylogger-with-Python-Lab-)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tmcybers&repo=Ethical-Hacking-Work-Environment&theme=github_dark)](https://github.com/tmcybers/Ethical-Hacking-Work-Environment)
+
 
 
 
