@@ -143,9 +143,9 @@ I'm a Writter|Autor of tmcybers.com || Multiskill Dev--> Front|Back Developer ||
 
   # :mailbox_with_mail: How to reach me:
   
-<a href="mailto:tmcyberagent@gmail.com">![tmcyberagent@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+<a href="mailto:tmcybers@proton.me">![tmcybers@proton.me](https://img.shields.io/badge/SECURE-PROTON%20MAIL-orange?style=for-the-badge&logo=proton)</a>
 
-<a href="<https://www.linkedin.com/in/antonmerisan>">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="https://keybase.io/tmcybers">![KEYBASE](https://img.shields.io/badge/KEYBASE%20ENCRYPTED-KEYBASE-yellow?style=for-the-badge&logo=KEYBASE)</a>
 
 
 
