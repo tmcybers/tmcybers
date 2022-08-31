@@ -86,7 +86,7 @@
                                                                                    
 ## My Workspaces:
 
-[<img height=40 src="https://img.shields.io/badge/Linux-Ubuntu%20Jammy%20Jellyfish-red?style=for-the-badge&logo=appveyor">]()</br>
+[<img height=40 src="https://img.shields.io/badge/ARCH-OPENBOX-red?style=for-the-badge&logo=archlinux">]()</br>
 
 [<img height=40 src="https://img.shields.io/badge/Acer-NITRO%205%20%5BNitroSense%5D-red?style=for-the-badge&logo=appveyor">]()</br>
 
