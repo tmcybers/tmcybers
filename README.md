@@ -34,19 +34,22 @@
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
-<br />
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
+
+<br>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/torproject/torproject-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/debian/debian-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></code>
-                                                                                                   
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg"></code>
 
+                                                                                                   
+<br>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/curl_haxx/curl_haxx-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/centos/centos-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/archlinux/archlinux-ar21.svg"></code>
@@ -56,13 +59,13 @@
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/hackerone/hackerone-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/redhat/redhat-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></code>                                                                                                     
-                                                                                             
+                                                                                          
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu/gnu-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/gitkraken/gitkraken-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/lifehacker/lifehacker-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/nginx/nginx-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
+
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/snort/snort-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"></code>
@@ -75,7 +78,7 @@
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/jquery/jquery-horizontal.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/nist/nist-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg"></code>
+
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/mariadb/mariadb-ar21.svg"></code>   
                                                                                            
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-ar21.svg"></code>
