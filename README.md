@@ -38,7 +38,6 @@
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
-
 <br>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/torproject/torproject-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-ar21.svg"></code>
@@ -47,10 +46,8 @@
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/debian/debian-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg"></code>
-
-                                                                                                   
-<br>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/curl_haxx/curl_haxx-ar21.svg"></code>
+<br>                                                                                          
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/centos/centos-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/archlinux/archlinux-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/apache/apache-ar21.svg"></code>
@@ -58,18 +55,17 @@
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/eslint/eslint-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/hackerone/hackerone-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/redhat/redhat-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></code>                                                                                                     
-                                                                                          
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></code>                                               <br>                                                                                       
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu/gnu-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/gitkraken/gitkraken-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/lifehacker/lifehacker-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/nginx/nginx-ar21.svg"></code>
-
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/snort/snort-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/wireshark/wireshark-ar21.svg"></code>                                                                               
+                                                                               
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/wireshark/wireshark-ar21.svg"></code>                                                       
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/gitkraken/gitkraken-ar21.svg"></code>
@@ -77,17 +73,15 @@
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/jquery/jquery-horizontal.svg"></code>
+<br>                                                                                          
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/nist/nist-ar21.svg"></code>
-
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/mariadb/mariadb-ar21.svg"></code>   
-                                                                                           
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/mariadb/mariadb-ar21.svg"></code>                                                            <code><img width="10%" src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/boum_tails/boum_tails-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-ar21.svg"></code>
-                                                                              
+<br>                                                                             
                                                                                    
                                                                                    
-## My Workspaces:
+## My Workspaces I:
 
 [<img height=40 src="https://img.shields.io/badge/ARCH-OPENBOX-red?style=for-the-badge&logo=archlinux">]()</br>
 
@@ -103,7 +97,7 @@
 
 [<img height=40 src="https://img.shields.io/badge/Keychron%20K2-Mechanical%20Keyboard%20Gateron-red?style=for-the-badge&logo=appveyor">]()</br>
 
-## Workspace Arch:
+## Workspace II:
 
 [<img height=40 src="https://img.shields.io/badge/ArchCraft-OPENBOX%7C%7CBSPWM-red?style=for-the-badge&logo=appveyor">](https://archcraft.io/)</br>
 
