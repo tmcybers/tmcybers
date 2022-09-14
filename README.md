@@ -101,7 +101,7 @@
 
 [<img height=40 src="https://img.shields.io/badge/ArchCraft-OPENBOX%7C%7CBSPWM-red?style=for-the-badge&logo=appveyor">](https://archcraft.io/)</br>
 
-[<img height=40 src="https://img.shields.io/badge/Lenovo-ThinkPad%20i5%20Slim--Edition-red?style=for-the-badge&logo=appveyor">]()</br>
+[<img height=40 src="https://img.shields.io/badge/Macbook-Pro%20i5%20---red?style=for-the-badge&logo=appveyor">]()</br>
 
 [<img height=40 src="https://img.shields.io/badge/Kingston-SSD%20SATA%20A400%20256GB%20350MB%2Fs-red?style=for-the-badge&logo=appveyor">]()</br>
 
