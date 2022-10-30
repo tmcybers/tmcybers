@@ -36,7 +36,7 @@ const antonmerisan = {
     `I use daily: ".(t|j)s(x)", ".html" and ".(s)css"`,
     `I'm currently learning Nodejs, Angular, TypeScript and Java (Spring boot)`,
     `I'm looking to collaborate on social impact projects`,
-    `Ask me about JavaScript, React and Hacking`,
+    `Ask me about JavaScript, React`,
     `Things I deeply care about: Design and User Experience`,
   ],
 };
