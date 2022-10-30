@@ -1,7 +1,5 @@
 
 
-# Hi there, I'm ɹǝqʎɔɯʇ 👋
-
 
 
 [![Website](https://img.shields.io/badge/-BLOG-yellowgreen?style=for-the-badge&logo=WORDPRESS)](https://www.tmcybers.com/)
