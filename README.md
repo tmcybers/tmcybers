@@ -1,7 +1,46 @@
 
-# <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" height="30px" width="30px"> Hey, I'm TMCyber
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+new&color=%23808080&size=30&width=1000&duration=3969&lines=Welcome+to+my+Profile!)](https://git.io/typing-svg)
+# Hi there, I'm ɹǝqʎɔɯʇ 👋
+
+```ts
+const antonmerisan = {
+  bio: 'Front-end Developer | ɿɘʞɔɒʜ |',
+  challenge: `I'm focused on React,
+  code: [
+    'HTML',
+    'CSS',
+    'JavaScript',
+    'TypeScript',
+    'NodeJs',
+    'React',
+    'NextJs',
+    'Remix.run',
+    'VueJs',
+    'NuxtJs',
+    'Spring Boot',
+  ],
+  tools: [
+    'vscode',
+    'yarn',
+    'NX.dev',
+    'eslint',
+    'prettier',
+    'husky',
+    'commitlint',
+    'Stylelint',
+    'Bootstrap',
+    'Jest',
+    'ChakraUI',
+  ],
+  more: [
+    `I use daily: ".(t|j)s(x)", ".html" and ".(s)css"`,
+    `I'm currently learning Nodejs, Angular, TypeScript and Java (Spring boot)`,
+    `I'm looking to collaborate on social impact projects`,
+    `Ask me about JavaScript, Beer, Bikes and Personal Management Tools`,
+    `Things I deeply care about: Design and User Experience`,
+  ],
+};
+```
 
 [![Website](https://img.shields.io/badge/-BLOG-yellowgreen?style=for-the-badge&logo=WORDPRESS)](https://www.tmcybers.com/)
 [![Website](https://img.shields.io/badge/-MEDIUM-orange?style=for-the-badge&logo=MEDIUM)](https://medium.com/@tmcybers)
@@ -13,10 +52,6 @@
 
 
 
-<p align="center">
-  <img width="92" src="<a href="https://www.freepnglogos.com/pics/linux" title=""><img src="https://www.freepnglogos.com/uploads/linux-png/compiling-the-linux-kernel-ubuntu-ultimatepeterm-31.png" width="200" alt="compiling the linux kernel ubuntu ultimatepeterm"/></a>
-</p>  
-<h2 align="center"> </h2>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=FULL-STACK+WEB+AND+APP+DEVELOPER+JR++++++++++)](https://git.io/typing-svg)
 
@@ -81,46 +116,16 @@
 <br>                                                                             
                                                                                    
                                                                                    
-## My Workspaces I:
 
-[<img height=40 src="https://img.shields.io/badge/ARCH-OPENBOX-red?style=for-the-badge&logo=archlinux">]()</br>
-
-[<img height=40 src="https://img.shields.io/badge/Acer-NITRO%205%20%5BNitroSense%5D-red?style=for-the-badge&logo=appveyor">]()</br>
-
-[<img height=40 src="https://img.shields.io/badge/Intel%C2%AE%20Core%E2%84%A2-i7%208Gen-red?style=for-the-badge&logo=appveyor">]()</br>
-
-[<img height=40 src="https://img.shields.io/badge/Kingston-DRAM%2024Gb%20%202667%20Mhz-red?style=for-the-badge&logo=appveyor">]()</br>
-
-[<img height=40 src="https://img.shields.io/badge/GeForce%20GTX%201050-4%20GB-red?style=for-the-badge&logo=appveyor">]()</br>
-
-[<img height=40 src="https://img.shields.io/badge/Kingston-SSD%20SATA%20A400%201.92TB%20500MB%2Fs-red?style=for-the-badge&logo=appveyor">]()</br>
-
-[<img height=40 src="https://img.shields.io/badge/Keychron%20K2-Mechanical%20Keyboard%20Gateron-red?style=for-the-badge&logo=appveyor">]()</br>
-
-## Workspace II:
-
-[<img height=40 src="https://img.shields.io/badge/Arch-i3-redV?style=for-the-badge&logo=archlinux">](https://archcraft.io/)</br>
-
-[<img height=40 src="https://img.shields.io/badge/MACBOOK-Pro%20i7-red?style=for-the-badge&logo=appveyor">]()</br>
-
-[<img height=40 src="https://img.shields.io/badge/Kingston-SSD%20SATA%20A400%20256GB%20350MB%2Fs-red?style=for-the-badge&logo=appveyor">]()</br>
-
-[<img height=40 src="https://img.shields.io/badge/Kingston-DRAM%2012Gb%20%202667%20Mhz-red?style=for-the-badge&logo=appveyor">]()</br>
-
----
 
    
 
-<h1>🏆 Github Profile Trophy</h1>
-
-<img width=800 src="https://github-profile-trophy.vercel.app/?username=tmcybers&column=9&theme=gruvbox&no-frame=true"/>
  
   
    
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tmcybers&layout=compact)
 
     
-![Shin's GitHub stats](https://github-readme-stats.vercel.app/api?username=tmcybers&show_icons=true&theme=tokyonight)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tmcybers&theme=neon-palenight&hide_border=true)
 
@@ -172,20 +177,5 @@ I'm a Writter|Autor of tmcybers.com || Multiskill Dev--> Front|Back Developer ||
 <a href="tmcybers@proton.me">![tmcybers@proton.me](https://img.shields.io/badge/SECURE%20PROTON%20MAIL-tmcybers%40proton.me-orange?style=for-the-badge&logo=mail)</a>
 
 <a href="https://keybase.io/tmcybers">![KEYBASE](https://img.shields.io/badge/KEYBASE%20ENCRYPTED-KEYBASE-yellow?style=for-the-badge&logo=KEYBASE)</a>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
