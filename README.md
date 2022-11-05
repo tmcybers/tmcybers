@@ -13,7 +13,7 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=(oɔiƚɘ)ɿɘʞɔɒʜ+Front+End+Developer++++++++++)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=(oɔiƚɘ)ɿɘʞɔɒʜ+OSINT:Researcher+Front+End+Developer++++++++++)](https://git.io/typing-svg)
 
 
 
@@ -42,7 +42,7 @@
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/apache/apache-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/hackerone/hackerone-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/redhat/redhat-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></code>                                               <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu/gnu-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu/gnu-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/snort/snort-ar21.svg"></code>                                                             <code><img width="10%" src="https://www.vectorlogo.zone/logos/wireshark/wireshark-ar21.svg"></code>                                                       
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
