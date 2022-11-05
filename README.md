@@ -13,7 +13,7 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=(oɔiƚɘ)ɿɘʞɔɒʜ+OSINT:Researcher+Front+End+Developer++++++++++)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=ɿɘʞɔɒʜ+OSINT+||Front+End+Developer++++++++++)](https://git.io/typing-svg)
 
 
 
@@ -96,7 +96,7 @@ __Check Out my Latest Projects:__
 
 ## Who is TMCyber  :zap: :
 
-I'm a Writter|Autor of tmcybers.com || Multiskill Dev--> Front|Back Developer || Java Enthusiast | Self-Taught Fanatic , I love to read, enjoy music and explore nature outdoors. If you are around Madrid, drop an email and let's catch-up over Coffee!
+I'm a Writter|Autor of educational cybersecurity resources || Multiskill Front|Back Developer || Java Enthusiast | Self-Taught Fanatic , I love to read, enjoy music and explore nature outdoors. If you are around Madrid, drop an email and let's catch-up over Coffee!
 
 * Check out my Blog: https://www.tmcybers.com
 - Know more about me: [About TMCyber](https://tmcybers.com/)
