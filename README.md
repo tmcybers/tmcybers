@@ -2,7 +2,7 @@
 
 
 
-[![Website](https://img.shields.io/badge/-BLOG-yellowgreen?style=for-the-badge&logo=WORDPRESS)](https://www.tmcybers.github.io/)
+[![Website](https://img.shields.io/badge/-BLOG-yellowgreen?style=for-the-badge&logo=WORDPRESS)](https://tmcybers.github.io/)
 [![Website](https://img.shields.io/badge/-MEDIUM-orange?style=for-the-badge&logo=MEDIUM)](https://medium.com/@tmcybers)
 [![Website](https://img.shields.io/badge/-TWITTER-yellow?style=for-the-badge&logo=TWITTER)](https://twitter.com/tmcybers)
 [![Website](https://img.shields.io/badge/-KEYBASE-red?style=for-the-badge&logo=KEYBASE)](https://keybase.io/tmcybers)
