@@ -82,7 +82,7 @@ __Check Out my Latest Projects:__
 ## Top repositories
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tmcybers&repo=Blog-del-Vino-Brand-Modern-Website-2022-Project&theme=github_dark)](https://github.com/tmcybers/Blog-del-Vino-Brand-Modern-Website-2022-Project)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tmcybers&repo=gmailHack&theme=github_dark)](https://github.com/tmcybers/gmailHack)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tmcybers&repo=FrontEnd-Store-Online-Shop-Modern-Webpage-2022-Project&theme=github_dark)](https://github.com/tmcybers/FrontEnd-Store-Online-Shop-Modern-Webpage-2022-Project)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tmcybers&repo=Freelancer-Modern-Website-2022-Project-&theme=github_dark)](https://github.com/tmcybers/Freelancer-Modern-Website-2022-Project-)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tmcybers&repo=Academy-Modern-Webpage-2022-Project-&theme=github_dark)](https://github.com/tmcybers/Academy-Modern-Webpage-2022-Project-)
@@ -95,7 +95,7 @@ __Check Out my Latest Projects:__
 
 ## Who is TMCyber  :zap: :
 
-Writter|Autor of educational cybersecurity resources || Agile Developer || Offensive Security || Threat Hunting | Penetration Tester | Researcher | SOC 101 | (NSE) 3 Fortinet| Cisco Cybersecurity Academy || HacktheBox CTF Player/Rank Global Hacker || Java Enthusiast | Self-Taught Fanatic , I love to read, enjoy music and explore nature outdoors. If you are around Madrid, drop an email and let's catch-up over Coffee!
+Writter|Autor of educational cybersecurity resources || Agile Developer || Offensive Security || Threat Hunting | Penetration Tester | Researcher | SOC 101 | (NSE) 3 Fortinet| Cisco Cybersecurity Academy || HacktheBox CTF Player/Rank Global :zap: Hacker ||| Self-Taught Fanatic , I love to read, enjoy music and explore nature outdoors. If you are around Madrid, drop an email and let's catch-up over Coffee!
 
 * Check out my Blog: https://tmcybers.github.io
 - Know more about me: [About TMCyber](https://tmcybers.github.io)
