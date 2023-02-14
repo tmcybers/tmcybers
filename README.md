@@ -107,6 +107,6 @@ Writter|Autor of educational cybersecurity resources || Agile Developer || Offen
   
 <a href="tmcybers@proton.me">![tmcybers@proton.me](https://img.shields.io/badge/SECURE%20PROTON%20MAIL-tmcybers%40proton.me-orange?style=for-the-badge&logo=mail)</a>
 
-<a href="https://keybase.io/tmcybers">![KEYBASE](https://img.shields.io/badge/KEYBASE%20ENCRYPTED-KEYBASE-yellow?style=for-the-badge&logo=KEYBASE)</a>
+<a href="https://t.me/+l5WYQySOL-0yMDQ0">![Telegram Private](https://img.shields.io/badge/KEYBASE%20ENCRYPTED-KEYBASE-yellow?style=for-the-badge&logo=telegram)</a>
 
 
