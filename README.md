@@ -22,7 +22,7 @@
   
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=/tmcybers/Freelancer-Modern-Website-2022-Project-)
 
-![](https://komarev.com/ghpvc/?username=tmcybers)
+![📌](https://komarev.com/ghpvc/?username=tmcybers)
 
 # 📗 Languages and Tools 🛠️
 
