@@ -68,9 +68,9 @@
 
 ## ⚒️ I'm Currently workng on ⚒️
 
-- Front Development
-- Customizer · deb/arch iso · Linux from Scratch
-- Pentesting/Tools
+- Python Tools/Scripts
+- Linux Customizer · deb/arch iso · Linux from Scratch
+- Pentesting/Hacking Tools
 
 [![Spanner Hacken](https://github-readme-stats.vercel.app/api/pin/?username=tmcybers&repo=Spanner-Hacken-Custom-Project&theme=github_dark)](https://github.com/tmcybers/Spanner-Hacken-Custom-Project)
 
