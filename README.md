@@ -68,8 +68,8 @@
 
 ## 💻 I'm Currently workng on
 
-- Front\Back Development
-- Customizer · Archiso · Linux from Scratch
+- Front Development
+- Customizer · deb/arch iso · Linux from Scratch
 - Pentesting/Tools
 
 [![Spanner Hacken](https://github-readme-stats.vercel.app/api/pin/?username=tmcybers&repo=Spanner-Hacken-Custom-Project&theme=github_dark)](https://github.com/tmcybers/Spanner-Hacken-Custom-Project)
