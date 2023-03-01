@@ -24,7 +24,7 @@
 
 ![](https://komarev.com/ghpvc/?username=tmcybers)
 
-<h2>Languages and Tools<h2> 
+<h2>📗 Languages and Tools 🛠️ <h2> 
 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></code>
@@ -60,13 +60,13 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tmcybers&theme=neon-palenight&hide_border=true)
 
-## See me Live:
+## 🎥 See me Live 🎥
   
 [![tmcybers's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tmcyber)](https://wakatime.com/@tmcyber)
 
 
 
-## 💻 I'm Currently workng on
+## ⚒️ I'm Currently workng on ⚒️
 
 - Front Development
 - Customizer · deb/arch iso · Linux from Scratch
@@ -76,10 +76,10 @@
 
 [![Spanner Hacken](https://github-readme-stats.vercel.app/api/pin/?username=tmcybers&repo=gmailHack&theme=github_dark)](https://github.com/tmcybers/gmailHack)
 
-__Check Out my Latest Projects:__
+__🏆 Check Out my Latest Projects 🏆__
 
 
-## Top repositories
+## 🥇 Top repositories 🥇
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tmcybers&repo=gmailHack&theme=github_dark)](https://github.com/tmcybers/gmailHack)
@@ -93,7 +93,7 @@ __Check Out my Latest Projects:__
 
 
 
-## Who is TMCyber  :zap: :
+## 🎭 Who is TMCyber 🎭  :zap: :
 
 Writter|Autor of educational cybersecurity resources || Agile Developer || Offensive Security || Threat Hunting | Penetration Tester | Researcher | SOC 101 | (NSE) 3 Fortinet| Cisco Cybersecurity Academy || HacktheBox CTF Player/Rank Global :zap: Hacker ||| Self-Taught Fanatic , I love to read, enjoy music and explore nature outdoors. If you are around Madrid, drop an email and let's catch-up over Coffee!
 
