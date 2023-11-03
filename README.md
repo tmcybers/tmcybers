@@ -12,7 +12,7 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=+++++++Offensive++++++++Security|⚔️|Linux+++++Dev+Advanced+Environments++++++)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=+++++++Off++++++S3C|⚔️|+Defense++Analist+++)](https://git.io/typing-svg)
 
 
 
