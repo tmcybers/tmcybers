@@ -93,17 +93,17 @@
 
 # 🎭 Who is TMCyber 🎭
 
-Writter|Autor of educational cybersecurity resources || Agile Developer || Offensive Security || Threat Hunting | Penetration Tester | Researcher | SOC 101 | (NSE) 3 Fortinet| Cisco Cybersecurity Academy || HacktheBox CTF Player/Rank Global :zap: Hacker ||| Self-Taught Fanatic , I love to read, enjoy music and explore nature outdoors. If you are around Madrid, drop an email and let's catch-up over Coffee!
+Writter|Autor of educational cybersecurity resources || Self-Taught Fanatic , I love to read, enjoy music and explore nature outdoors. If you are around Madrid, drop an email and let's catch-up over Coffee!
 
-* Check out my Blog: https://tmcybers.github.io
-- Know more about me: [About TMCyber](https://tmcybers.github.io)
-- Write to me: [ConnectWith@tmcybers.com](mailto:tmcyberagent@gmail.com)
+* Check out my Blog: https://tmcyb3r.com
+- Know more about me: [About TMCyber](https://88d64233.tmcybers-github-io.pages.dev/about/)
+- Write to me? How to /About section: [ConnectWith@tmcybers.com](https://88d64233.tmcybers-github-io.pages.dev/about/)
 
 
 
   # :mailbox_with_mail: How to reach me:
   
-<a href="tmcybers@proton.me">![tmcybers@proton.me](https://img.shields.io/badge/SECURE%20PROTON%20MAIL-tmcybers%40proton.me-orange?style=for-the-badge&logo=mail)</a>
+<a href="https://matrix.to/#/@discloseds3c:matrix.org">![https://matrix.to/#/@discloseds3c:matrix.org](https://img.shields.io/badge/SECURE%20PROTON%20MAIL-tmcybers%40proton.me-orange?style=for-the-badge&logo=mail)</a>
 
 <a href="https://t.me/+l5WYQySOL-0yMDQ0">![Telegram Private](https://img.shields.io/badge/Telegram-Private%20Channel-yellow?style=for-the-badge&logo=appveyor)</a>
 
