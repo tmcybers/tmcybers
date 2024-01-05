@@ -67,13 +67,12 @@
 
 # ⚒️ I'm Currently workng on ⚒️
 
-* Python Tools/Script
-* Linux Customizer · deb/arch iso · Linux from Scratch
-* Pentesting/Hacking Tools
+* Development
+* Security
+* Tools
 
-[![Spanner Hacken](https://github-readme-stats.vercel.app/api/pin/?username=tmcybers&repo=Spanner-Hacken-Custom-Project&theme=github_dark)](https://github.com/tmcybers/Spanner-Hacken-Custom-Project)
+[![Hypr-S3C](https://github-readme-stats.vercel.app/api/pin/?username=tmcybers&repo=Spanner-Hacken-Custom-Project&theme=github_dark)](https://github.com/tmcybers/Hypr-S3C)
 
-[![Spanner Hacken](https://github-readme-stats.vercel.app/api/pin/?username=tmcybers&repo=gmailHack&theme=github_dark)](https://github.com/tmcybers/gmailHack)
 
 # 🏆 Check Out my Latest Projects 🏆
 
