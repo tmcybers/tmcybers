@@ -24,32 +24,7 @@
 ![📌](https://komarev.com/ghpvc/?username=tmcybers)
 
 # 📗 Languages and Tools 🛠️
-
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/torproject/torproject-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/debian/debian-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/archlinux/archlinux-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/apache/apache-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/hackerone/hackerone-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/redhat/redhat-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu/gnu-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/snort/snort-ar21.svg"></code>                                                             <code><img width="10%" src="https://www.vectorlogo.zone/logos/wireshark/wireshark-ar21.svg"></code>                                                       
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg"></code>                                                           <code><img width="10%" src="https://www.vectorlogo.zone/logos/nist/nist-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/mariadb/mariadb-ar21.svg"></code>                                                           <code><img width="10%" src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/boum_tails/boum_tails-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-ar21.svg"></code>
-                                                                            
-                                                                                   
-                                                                              
-  
+                                                                          
    
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tmcybers&layout=compact)
 
@@ -89,7 +64,7 @@
 
 # 🎭 Who is TMCyber 🎭
 
-Writter|Autor of educational cybersecurity resources || Self-Taught Fanatic , I love to read, enjoy music and explore nature outdoors. If you are around Madrid, drop an email and let's catch-up over Coffee!
+Human in The Loop
 
 * Check out my Blog: https://tmcyb3r.com
 - Know more about me: [About TMCyber](https://88d64233.tmcybers-github-io.pages.dev/about/)
