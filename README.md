@@ -29,7 +29,6 @@
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/torproject/torproject-ar21.svg"></code>
@@ -43,7 +42,6 @@
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu/gnu-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/snort/snort-ar21.svg"></code>                                                             <code><img width="10%" src="https://www.vectorlogo.zone/logos/wireshark/wireshark-ar21.svg"></code>                                                       
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg"></code>                                                           <code><img width="10%" src="https://www.vectorlogo.zone/logos/nist/nist-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/mariadb/mariadb-ar21.svg"></code>                                                           <code><img width="10%" src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/boum_tails/boum_tails-ar21.svg"></code>
