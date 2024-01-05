@@ -12,7 +12,7 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=++++++Disclosed++++++S3C|⚔️|+Security+++Defense++++)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=++++Cyber++++S3C|⚔️|+For Humans+++)](https://git.io/typing-svg)
 
 
 
