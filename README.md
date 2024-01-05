@@ -2,11 +2,10 @@
 
 
 [![Website](https://img.shields.io/badge/Hacker%20%7C%20Rank%20Global-Hackthebox-brightgreen?style=for-the-badge&logo=appveyor)](https://app.hackthebox.com/profile/1029125)
-[![Website](https://img.shields.io/badge/-BLOG-yellowgreen?style=for-the-badge&logo=github)](https://tmcybers.github.io/)
+[![Website](https://img.shields.io/badge/-BLOG-yellowgreen?style=for-the-badge&logo=github)](https://tmcyb3r.com)
 [![Website](https://img.shields.io/badge/-MEDIUM-orange?style=for-the-badge&logo=MEDIUM)](https://medium.com/@tmcybers)
-[![Website](https://img.shields.io/badge/-TWITTER-yellow?style=for-the-badge&logo=TWITTER)](https://twitter.com/tmcybers)
-[![Website](https://img.shields.io/badge/-WAKATIME-lightgrey?style=for-the-badge&logo=WAKATIME)](https://wakatime.com/@tmcyber)
-[![Website](https://img.shields.io/badge/-KO--FI-blue?style=for-the-badge&logo=KO-FI)](https://ko-fi.com/tmcyber)
+[![Website](https://img.shields.io/badge/-TWITTER-yellow?style=for-the-badge&logo=TWITTER)](https://twitter.com/tmcyb3r)
+[![Website](https://img.shields.io/badge/-WAKATIME-lightgrey?style=for-the-badge&logo=WAKATIME)](https://wakatime.com/@tmcyb3r)
 [![Website](https://img.shields.io/badge/-BUY%20MY%20SERVICES-orange?style=for-the-badge&logo=COFFEE)](https://github.com/sponsors/tmcybers)
 
 
