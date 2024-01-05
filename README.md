@@ -103,8 +103,7 @@ Writter|Autor of educational cybersecurity resources || Self-Taught Fanatic , I 
 
   # :mailbox_with_mail: How to reach me:
   
-<a href="https://matrix.to/#/@discloseds3c:matrix.org">![matrix](https://img.shields.io/badge/SECURE%20MATRIX%2%40-orange?style=for-the-badge&logo=mail)</a>
+Use Matrix
 
-<a href="https://t.me/+l5WYQySOL-0yMDQ0">![Telegram Private](https://img.shields.io/badge/Telegram-Private%20Channel-yellow?style=for-the-badge&logo=appveyor)</a>
 
 
