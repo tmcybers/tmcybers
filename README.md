@@ -15,9 +15,6 @@
 
 
 
-
-
-
   
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=/tmcybers/Freelancer-Modern-Website-2022-Project-)
 
@@ -34,7 +31,7 @@
 
 # 🎥 See me Live 🎥
   
-[![tmcybers's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tmcyber)](https://wakatime.com/@tmcyb3r)
+[![tmcybers's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tmcyb3r)](https://wakatime.com/@tmcyb3r)
 
 
 
