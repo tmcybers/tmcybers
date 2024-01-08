@@ -41,7 +41,7 @@
 * Security
 * Tools
 
-[![Hypr-S3C](https://github-readme-stats.vercel.app/api/pin/?username=tmcybers&repo=Spanner-Hacken-Custom-Project&theme=github_dark)](https://github.com/tmcybers/Hypr-S3C)
+[![Hypr-S3C](https://github-readme-stats.vercel.app/api/pin/?username=tmcybers&repo=Hypr-S3C&theme=github_dark)](https://github.com/tmcybers/Hypr-S3C)
 
 
 # 🏆 Check Out my Latest Projects 🏆
